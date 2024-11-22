@@ -1,0 +1,8 @@
+C:\Users\Lenovo\source\repos\MyAppLibr\MyAppLibr\obj\Debug\MyAppLibr.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\MyAppLibr\MyAppLibr\obj\Debug\MyAppLibr.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\MyAppLibr\MyAppLibr\bin\Debug\MyAppLibr.exe.config
+C:\Users\Lenovo\source\repos\MyAppLibr\MyAppLibr\bin\Debug\MyAppLibr.exe
+C:\Users\Lenovo\source\repos\MyAppLibr\MyAppLibr\bin\Debug\MyAppLibr.pdb
+C:\Users\Lenovo\source\repos\MyAppLibr\MyAppLibr\obj\Debug\MyAppLibr.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\MyAppLibr\MyAppLibr\obj\Debug\MyAppLibr.exe
+C:\Users\Lenovo\source\repos\MyAppLibr\MyAppLibr\obj\Debug\MyAppLibr.pdb
